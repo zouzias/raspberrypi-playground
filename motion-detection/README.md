@@ -19,6 +19,10 @@ Goal: detect motion using a camera sensor and switch on/off a 5V relay.
 Use case: Low budget alarm system.
 
 
+### Screenshots
+
+![Outlook](outlook.jpg)
+
 ### Output logs
 
 ```
