@@ -7,6 +7,8 @@ Home sensor for temperature and humidity.
 * Raspberry Pi 3 Model B+
 * [DHT11 Digital Temperature and Humidity Sensor](https://www.adafruit.com/product/386)
 
+You need to fix the "data" pin of DHT11 to GPIO11 of Raspberry Pi.
+
 ## Setup
 
 You need to install the AdaFruit DHT python package first
