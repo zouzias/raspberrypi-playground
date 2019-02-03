@@ -1,13 +1,13 @@
-# Humidity and Temperature measurement using Raspberry Pi
+# Humidity and Temperature using Raspberry Pi
 
 Home sensor for temperature and humidity.
-## Hardware
+
+## Hardware parts
 
 * Raspberry Pi 3 Model B+
 * [DHT11 Digital Temperature and Humidity Sensor](https://www.adafruit.com/product/386)
 
-
-## setup
+## Setup
 
 You need to install the AdaFruit DHT python package first
 
@@ -28,7 +28,7 @@ sudo python setup.py install
 ```
 
 
-## Run process with supervisord
+## Run long-standing process with supervisord
 
 Add the following config and restart `supervisord`
 
